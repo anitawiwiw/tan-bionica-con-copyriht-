@@ -1,0 +1,103 @@
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-size:160px;
+     font-family:Verdana,sans-serif;
+}
+body {
+     background-color: rgb(49, 49, 110);
+     height: 90%;
+     margin: 5%;
+     
+}
+.tex{
+     display: flex;
+     background-color: rgba(55, 97, 189, 0.644);
+     height: 50%;
+     margin: 5%;
+     margin-top: 5%;
+  
+}
+h2{
+     font-size:27px;
+     font-family:Verdana,sans-serif;
+     margin:2%;
+}
+h3{
+    font-size:34px;
+     font-family:Verdana,sans-serif;
+     margin:3%;
+    
+}
+.tex1{
+    display:flexbox;
+    background-color: rgba(42, 224, 224, 0.61);
+    text-align: center;
+    margin: 2%;
+    width: 400px;
+}
+.tex2{
+    display:flexbox;
+    background-color: rgba(42, 224, 224, 0.61) ;
+    text-align: center;
+    margin: 2%;
+    width: 400px;
+}
+.tex3{
+    display:flexbox;
+    background-color: rgba(42, 224, 224, 0.61);
+    text-align: center;
+    margin: 2%;
+    width: 400px;
+}
+.tex4{
+    display:flexbox;
+    background-color: rgba(42, 224, 224, 0.61);
+    text-align: center;
+    margin: 2%;
+    width: 400px;
+}
+.historia{
+    color: antiquewhite;
+    background-color: rgba(55, 97, 189, 0.644);
+    height: 90%;
+    margin: 5%;
+    margin-top: 5%;
+    text-align: center;
+    font-size:27px;
+    font-family:Verdana,sans-serif;
+     
+     h3{text-decoration:  underline; text-decoration-color: blue;}
+}
+.li{
+    text-align: left;
+     display: inline-block;
+     width: 600px;
+}
+.card{width: 130%;}
+.tarjeta{
+    display: -webkit-inline-flex;
+    margin: 7%;
+    margin-top: 1%;
+    p{color: rgb(52, 62, 148);}
+    h5{color: rgb(26, 26, 80);font-size: 45px; font-weight: bolder;}
+}
+.tarjetas{
+    display: -webkit-inline-flex;
+    margin: 7%;
+    margin-top: 1%;
+    p{color: rgb(52, 62, 148);}
+    h5{color: rgb(26, 26, 80);font-size: 45px; font-weight: bolder;}
+
+} 
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: (52, 62, 148)f2f2;
+  color: #9aacdf;
+  font-size: 0.9em;
+  margin-top: 50px;
+}
+
+
+
